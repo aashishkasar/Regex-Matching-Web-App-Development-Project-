@@ -42,3 +42,5 @@ In this project my job is to replicate the core functionality of the regex101 [w
 - Flask
 - HTML
 - CSS
+## Output
+![image](https://github.com/aashishkasar/Regex-Matching-Web-App-Development-Project-/assets/109797716/664123bd-4e04-45e4-b1c9-89b882509a06)
